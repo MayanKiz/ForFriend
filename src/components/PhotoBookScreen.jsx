@@ -130,7 +130,7 @@ export default function PhotoBookScreen({ onNext }) {
                                 animate={{ opacity: 1 }}
                                 transition={{ delay: 1, duration: 0.8 }}
                             >
-                                Sample Message
+                                Sample Text
                             </motion.p>
                         </motion.div>
                     ) : (

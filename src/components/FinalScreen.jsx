@@ -19,7 +19,7 @@ export default function FinalMessageScreen({ onNext }) {
   "But talking to you yesterday just felt different... almost like I was talking to my own reflection.",
   "When you joked about me being your 'male version' and us sharing the same brain cells...",
   "...it honestly hit differently. It just felt so real.",
-  Sample Message
+  "Sample Message",
   "You told me you're fascinated by psychology and understanding the human brain...",
   "...but yesterday, you completely took over my mind just by being exactly who you are.",
   "You mentioned how you deeply observe every little detail around you, right?",
@@ -363,7 +363,7 @@ export default function FinalMessageScreen({ onNext }) {
                 whileTap={{ scale: 0.95 }}
               >
                 <span className="flex items-center gap-2">
-                  Sample Message
+                  "Sample Message",
                   <Sparkles className="w-5 h-5" />
                 </span>
               </motion.button>

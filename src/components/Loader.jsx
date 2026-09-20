@@ -65,7 +65,7 @@ export default function Loader() {
                 >
                     <h1 className="text-3xl md:text-4xl font-bold">
                         <span className="bg-gradient-to-r from-cyan-400 to-pink-500 bg-clip-text text-transparent">
-                            Sample Message
+                            Sample Text
                         </span>
                     </h1>
                     <p className="text-gray-400 text-lg">Sample Message</p>

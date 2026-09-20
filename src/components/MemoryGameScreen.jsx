@@ -135,7 +135,7 @@ export default function MemoryGameScreen({ onGameComplete, gameCompleted }) {
               </motion.div>
 
               <h2 className="text-3xl md:text-4xl font-bold mb-6 bg-gradient-to-r from-cyan-400 to-pink-500 bg-clip-text text-transparent">
-                Sample Message
+                Sample Text
               </h2>
 
               <div className="text-gray-300 mb-8 space-y-3 text-left">
@@ -152,7 +152,7 @@ export default function MemoryGameScreen({ onGameComplete, gameCompleted }) {
                 whileTap={{ scale: 0.95 }}
               >
                 <span className="flex items-center gap-2">
-                  Sample Message
+                  "Sample Message",
                   <Gamepad2Icon className="w-5 h-5" />
                 </span>
               </motion.button>
