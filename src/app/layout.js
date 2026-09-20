@@ -1,8 +1,8 @@
 import "./globals.css"
 
 export const metadata = {
-  title: "For You maam!",
-  description: "A heartfelt surprise.. just for you.",
+  title: "Interactive Memory Celebration",
+  description: "An animated New Year and friendship celebration experience that combines a memory game with guided visual storytelling.",
 }
 
 export default function RootLayout({ children }) {
