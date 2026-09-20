@@ -50,9 +50,7 @@ export default function IntroScreen({ onNext }) {
                             animate={{ opacity: 1, y: 0 }}
                             transition={{ delay: 0.5, duration: 0.8 }}
                         >
-                            <span className="bg-gradient-to-r from-cyan-400 to-pink-500 bg-clip-text text-transparent">
-                                Sample Text
-                            </span>
+                            <span className="bg-gradient-to-r from-cyan-400 to-pink-500 bg-clip-text text-transparent">Welcome to your surprise</span>
                             <br />
                             <span className="bg-gradient-to-r from-pink-500 to-purple-500 bg-clip-text text-transparent">
                                 I’ve Made Something
@@ -68,9 +66,7 @@ export default function IntroScreen({ onNext }) {
                             initial={{ opacity: 0, y: 30 }}
                             animate={{ opacity: 1, y: 0 }}
                             transition={{ delay: 1, duration: 0.8 }}
-                        >
-                            Sample Text
-                        </motion.p>
+                        >Welcome to your surprise</motion.p>
                     </motion.div>
 
                     {/* Start button */}

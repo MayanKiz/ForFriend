@@ -134,14 +134,12 @@ export default function MemoryGameScreen({ onGameComplete, gameCompleted }) {
                 </div>
               </motion.div>
 
-              <h2 className="text-3xl md:text-4xl font-bold mb-6 bg-gradient-to-r from-cyan-400 to-pink-500 bg-clip-text text-transparent">
-                Sample Text
-              </h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-6 bg-gradient-to-r from-cyan-400 to-pink-500 bg-clip-text text-transparent">Welcome to your surprise</h2>
 
               <div className="text-gray-300 mb-8 space-y-3 text-left">
-                <p>Sample Message</p>
+                <p>Welcome to your surprise</p>
                 <p>💕 Test your memory skill</p>
-                <p>Sample Message</p>
+                <p>Welcome to your surprise</p>
                 <p>🏆 Try to finish in fewer moves!</p>
               </div>
 

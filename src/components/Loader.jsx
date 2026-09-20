@@ -64,11 +64,9 @@ export default function Loader() {
                     className="space-y-4"
                 >
                     <h1 className="text-3xl md:text-4xl font-bold">
-                        <span className="bg-gradient-to-r from-cyan-400 to-pink-500 bg-clip-text text-transparent">
-                            Sample Text
-                        </span>
+                        <span className="bg-gradient-to-r from-cyan-400 to-pink-500 bg-clip-text text-transparent">Welcome to your surprise</span>
                     </h1>
-                    <p className="text-gray-400 text-lg">Sample Message</p>
+                    <p className="text-gray-400 text-lg">Welcome to your surprise</p>
                 </motion.div>
 
                 {/* Progress bar */}
